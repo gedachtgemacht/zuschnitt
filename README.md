@@ -6,6 +6,8 @@ It is a single page in the browser that works offline as a PWA, needs no account
 
 ![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-blue) ![PWA](https://img.shields.io/badge/PWA-installable-5a0fc8) ![Offline](https://img.shields.io/badge/offline-yes-2ea44f) ![No dependencies](https://img.shields.io/badge/dependencies-none-lightgrey)
 
+**Try it:** https://gedachtgemacht.github.io/zuschnitt/ (works in any phone browser, install via "Add to Home Screen")
+
 The app interface is in German.
 
 If you buy sheets or boards at the hardware store, you want to know beforehand how many you need. Usable cut list planners are web services with an account or a subscription, desktop programs for Windows only, or tools for developers. Simple calculations often forget the saw kerf: three pieces of 800 mm don't fit into a 2400 mm board when the saw blade eats 4 mm. zuschnitt. accounts for the kerf, shows the cutting plan as a drawing and can be printed.
